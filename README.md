@@ -1,2 +1,2 @@
-# Advanced-NetworksMC
-Advanced Networks mod for Minecraft
+# Advanced Networks
+Advanced Networks is a mod for Minecraft
